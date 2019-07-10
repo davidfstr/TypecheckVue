@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "typescript": "^3.5.2",
-    "vue": "^2.6.10"
+    "vue": "git+ssh://git@github.com/vuejs/vue.git#ab50e8e1da2f4f944af683252481728485fedf16"
   }
 }
